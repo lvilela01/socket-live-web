@@ -43,3 +43,5 @@ Interface em tempo real desenvolvida para monitorizar o fluxo de utilizadores at
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/lvilela01/socket-live-web.git](https://github.com/lvilela01/socket-live-web.git)
+
+🌐 **Live Demo:** [https://socket-live-web.vercel.app](https://socket-live-web.vercel.app)
